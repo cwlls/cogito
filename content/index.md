@@ -1,5 +1,13 @@
 ---
 title: Welcome!
+sorting-spec: |
+  Slipbox
+  Maps
+  Resources
+  Projects
+  Files
+  Templates
+---
 ---
 
 This is your new *vault*.
