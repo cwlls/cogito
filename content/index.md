@@ -1,5 +1,5 @@
 ---
-publish: true
+title: Welcome!
 ---
 
 This is your new *vault*.
